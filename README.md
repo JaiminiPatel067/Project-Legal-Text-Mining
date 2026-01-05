@@ -1,4 +1,3 @@
-# Project-Legal-Text-Mining
 # Legal Text Mining Project: ECtHR Dataset
 
 ## Project Overview
