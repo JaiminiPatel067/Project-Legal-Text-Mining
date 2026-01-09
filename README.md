@@ -8,7 +8,9 @@
 ## Notebook Structure
 - `01_data_exploration.ipynb`: Load & explore dataset
 - `02_preprocessing.ipynb`: Clean & prepare text
-- `03_modeling.ipynb`: Topic modeling 
+- `03_modeling.ipynb`: Topic modeling
+- `04_Trend & Topic.ipynb ` : Trend analysis over time using **yearly counts per topic
+- `05_Citation & Precedent Network Analysis ` : Visualized top-cited or influential cases to understand legal authority propagation
 - `results/`: Plots and analysis
 - `src/`: Shared Python functions
 
