@@ -8,7 +8,7 @@
 ## Notebook Structure
 - `01_data_exploration.ipynb`: Load & explore dataset
 - `02_preprocessing.ipynb`: Clean & prepare text
-- `03_modeling.ipynb`: Topic modeling & prediction
+- `03_modeling.ipynb`: Topic modeling 
 - `results/`: Plots and analysis
 - `src/`: Shared Python functions
 
